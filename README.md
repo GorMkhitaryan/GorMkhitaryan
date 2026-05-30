@@ -1,5 +1,10 @@
 # 💫 About Me:
-Ես Գոռ Ավետիսյանն եմ։ Հետաքրքրվում եմ ծրագրավորմամբ և հաճախ աշխատում եմ Python-ի խնդիրների վրա։ Լուծում եմ տարբեր մակարդակի ալգորիթմական և մաթեմատիկական առաջադրանքներ՝ սկսած պարզ պայմաններից ու ցիկլերից մինչև զանգվածների և ֆունկցիաների հետ կապված խնդիրներ։ Սիրում եմ սովորել նոր թեմաներ, զարգացնել իմ տրամաբանական մտածողությունը և շարունակաբար կատարելագործել ծրագրավորման հմտություններս։<br><br>Ծրագրավորումը ինձ համար ոչ միայն հետաքրքրություն է, այլ նաև ինքնազարգացման և նոր հնարավորություններ բացահայտելու միջոց։ Ես սիրում եմ մարտահրավերներ, փորձում եմ գտնել խնդիրների արդյունավետ լուծումներ և մշտապես ընդլայնել իմ գիտելիքները։ Իմ նպատակն է շարունակել զարգանալ, ձեռք բերել նոր փորձ և վստահ քայլերով առաջ շարժվել իմ ընտրած ուղղությամբ։
+My name is Gor Avetisyan. I am interested in programming and often work on Python-related tasks. I solve algorithmic and mathematical problems of various difficulty levels, ranging from simple conditions and loops to tasks involving arrays and functions.
+
+I enjoy learning new topics, developing my logical thinking, and continuously improving my programming skills. Programming is not only a hobby for me but also a way of self-development and discovering new opportunities.
+
+I like challenges, try to find efficient solutions to problems, and constantly expand my knowledge. My goal is to continue growing, gain new experience, and move forward confidently in my chosen field.
+
 
 
 # 💻 Tech Stack:
